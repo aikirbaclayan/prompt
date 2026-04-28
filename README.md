@@ -71,8 +71,8 @@ Everything is stored locally. No third-party cloud. Your prompts stay yours.
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/aikirbaclayan/prompt.git
-cd prompt
+git clone https://github.com/umitaltinozzz/prompt-vault.git
+cd prompt-vault
 ```
 
 ### 2. Configure environment
